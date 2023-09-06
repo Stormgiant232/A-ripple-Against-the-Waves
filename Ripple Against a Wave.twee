@@ -1,0 +1,488 @@
+:: StoryTitle
+Ripple Against a Wave
+
+
+:: StoryData
+{
+  "ifid": "180627DF-B308-4390-BF63-D82FCED08881",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "A Ripple Against a Wave",
+  "zoom": 1
+}
+
+
+:: A Ripple Against a Wave [Ripples] {"position":"100,900","size":"100,100"}
+The passage of time is a fickle thing; like waves against a beach, it is constant, and it wears most things down that remain within its grasp. The disaster in Morgania was an inevitable point in history. The city would fall, millions would die, but how it falls and who is killed are things that each person who took part in the disaster at least had some impact over. Our story starts in a refugee shelter in the Low-Town. Refugees from the crisis who fled into the city gathered here, and our character is one such member. who they are matters not, but what they do could produce enough of a ripple that it may just last this storm.
+
+
+
+[[Awakened in Low-Town]] 
+
+
+:: Awakened in Low-Town [Ripples] {"position":"250,900","size":"100,100"}
+''Day 1: Night''
+
+Your eyes snap open, only to wince at the sharp ringing in your head from some unseen head trauma. The nasty ringing in your head quickly shifts into the fading alarm system of the now-collapsing building, with the once-roof of the gymnasium-turned-refugee-shelter allowing rain in with little resistance. It's as if the building itself were crying, if the shuddering of the foundations were anything to go by. Although you are under a part of the roof that remains intact, your hand returns wet from the bloody wound in your scalp, revealing the aforementioned head trauma. Although, it is fair to say that you got lucky. Those around you are mostly dead or dying, with the shrapnel from the roof acting as buckshot causing carnage across the floor. A few faint sobs can be heard across the room, with those who remain cradling their loved ones, living or dead.
+
+A crack of lightning above illuminates multiple inhuman silhouettes in the hole in the roof, and the back door is strained under the weight of //something// on the other side. The sobs you could hear go quiet, and it's as if the entire building is holding its breath. Then you notice the //smell//. It's a rotten smell, like sulfur or rotten eggs, one that you recognize all too well for its similarities to that of a dead man. Swiveling your head to the direction of the smell, you see just in time to see the jaw of an abomination snap shut on the skull of a corpse, brain matter splattering across the floor. A serpent-like tongue flickers out, as the eyeless beast swivels its head towards you, and your instincts scream to ''run.'' Do you trust your instincts? Or do you attempt to hide?
+
+[[Run]]     
+
+[[Hide]]
+
+
+
+:: Backdoor [Ripples] {"position":"100,750","size":"100,100"}
+Panic streaks through your body as you forget everything that you saw when you woke. You have a single though in your mind. //''~~GET OUT OF HERE.~~''// 
+
+In such a panic, the finer details of what is going on around you fade away, as you reach for the ~~--bulging?--~~ backdoor. You rip it open and throw yourself outside, slamming the warped ~~(why was it warped?)~~ metal shut behind you and you take a deep breath of ~~un~~clean ~~rotten~~ air. You look up as a shadow surrounds you.
+
+The last thing you see is a black blade enter the blindspot between your eyes.
+
+=========================================================
+
+Congrats!  You found the first death! In your hurry to escape the chaos hound, you forgot that there was something on the other side of the backdoor. if you want to try again, pray to the lord of time to try again!
+
+[[A Ripple Against a Wave]] Passage Text
+Panic streaks through your body as you forget everything that you saw when you woke. You have a single thought in your mind. //''~~GET OUT OF HERE.~~''//
+
+In such a panic, the finer details of what is going on around you fade away, as you reach for the ~~--bulging?--~~ backdoor. You rip it open and throw yourself outside, slamming the warped ~~(why was it warped?)~~ metal shut behind you and you take a deep breath of ~~un~~clean ~~rotten~~ air. You look up as a shadow surrounds you.
+
+The last thing you see is a black blade entering the blindspot between your eyes.
+
+========================================================
+
+Congrats!  You found the first death! In your hurry to escape the chaos hound, you forgot that there was something on the other side of the backdoor. If you want to try again, pray to the lord of time to try again!
+
+[[A Ripple Against a Wave]]
+
+
+
+
+:: Break the Window {"position":"250,300","size":"100,100"}
+You crack the window, but it's not enough to fit through, so, grabbing a bat, you swing and break the window in entirety, and hop out with haste. 
+
+As you do so, your hands scrape against the broken glass, cutting open and almost cause you to lose balance, but you regain your balance and quickly break into a sprint. 
+
+
+
+
+:: Center {"position":"400,750","size":"100,100"}
+(Death to be written)
+
+Get outrun by monstrosity
+
+[[A Ripple Against a Wave]] 
+
+
+
+:: Continue through the alleys {"position":"850,450","size":"100,100"}
+End Of Current Version
+
+
+:: Equipment Closet [Ripples] {"position":"250,600","size":"100,100"}
+Quickly maneuvering yourself into the nearby equipment closet, you get the door shut before that //thing// can reach the door. Now somewhat safe, you look around for anything you can find of use. you grab some padding and a wooden practice sword, but you realize these things won't be too helpful in your current predicament. What will be is the crowbar that was lying against a rack. Picking it up, you need to make a decision on what to do next. There's a window that you could peek through, though it looks like you would need to break it to open, or you could go back out into the gym, and face your fears.
+
+[[look through the window]]
+
+[[Face your fears]]
+
+
+
+
+:: Explore the Stage {"position":"400,300","size":"100,100"}
+End Of Current Version
+
+
+:: Face your fears {"position":"100,600","size":"100,100"}
+(Death to be written)
+[[A Ripple Against a Wave]] 
+
+
+:: Gag And Run {"position":"100,1050","size":"100,100"}
+Your body rejects the disgusting odor and tastes. Retching, you reveal yourself to the monster. Trapped under a corpse, you can only pray for another chance as you feel your soul ripped from its body.
+
+[[A Ripple Against a Wave]] 
+
+
+:: Go on {"position":"100,1625","size":"100,100"}
+I mean seriously. The number of people who actually choose that decision... it baffles me. And don't get me started on the people who try to use the back door... I mean COME ON. And then they go back, and do it all again. Over... and over... and over. Are you expecting something to change just because you found ''every'' death? No! You just are stupid! Sorry that I'm ranting.. you can [[wake up]] if you want. Its just... you can only see the same decisions get made so many times right?
+
+Look, you probably dont care, so go [[wake up]].
+
+~~Who wants to hear me talk more anyways?~~
+
+(text-rotate-x:89)[[Me]]
+
+
+:: Hallways [Ripples] {"position":"400,600","size":"100,100"}
+You scramble into the labyrinth of hallways leading out of the Gymnasium, and you can hear the monstrosity not far behind you. Realizing you probably won't outrun it in a straight line, you start ducking and weaving through the halls, hoping, praying to find an answer to your current predicament.
+
+You reach an intersection. That's when you find the form of a man locked in combat with another monstrosity down the hallway to your left. To the right is the entrance to the building's meeting room, and you can see the entrance to the building straight ahead of you. You have three options and a waning period of time to decide. Time to make a choice.
+
+		      [[Center]]
+[[Left]]				   [[Right]]
+				
+
+
+
+
+:: Headed out of the City {"position":"700,750","size":"100,100"}
+He nods his head solemnly, "Yeah, probably a good idea. With those monstrosities roaming the streets, sticking around probably isn't for the best. No family to find I presume?"
+
+If you had any that you could remember, you would've told him, but as you are alone, you simply shake your head.
+
+"Anyways, should we get going? I don't want to find out what happens if we stick around for much longer." He slowly gets up, struggling with his prosthetic leg "The name is Trevor by the way. Good to meet you, terrible to meet you here, you know?"
+
+He begins to walk towards the front exit, only to stop and look back towards you. "You [[ready to go]]?
+
+
+:: Headed to the Shipyard {"position":"700,1025","size":"100,100"}
+
+
+
+:: Help the man {"position":"550,750","size":"100,100"}
+You commit to your first thought, and transfer all your might into a charge, slamming the beast off the man, who scrambles for the gun.
+
+Everything else happens so quickly, you almost miss it.
+
+The man jams the gun under the first monster's jaw, and the following bullet shatters the skull, leaving a smoking hole where the brain should be. At the same time, the other monster comes back around the corner, and as it charges at the closest person to it, jaws snapping, the man crouches as he slams the bayonet of his rifle into the chest of the beast, letting its momentum do the work as the beast's belly is split apart emptying it.
+
+Chest heaving and adrenaline pumping, you hunch over and empty your own stomach as you recognize bits and pieces of dead bodies among the entrails.
+
+Once done, the man goes to speak
+
+"Thanks for the help there... You okay?"
+
+[[I'm Fine]]
+
+[[Hurl some more]]
+
+
+
+:: Hide {"position":"400,900","size":"100,100"}
+You go still as the rotting smell //grows//. As the quadruped aprroaches, you cam hear the bones and ligaments repositioning themselves, cracking and twisting as it moves in your direction with an unsightly gait. Lowering yourself to the floor, you grab and roll a corpse on top of yourself. The blood smears accross you, accosting your tastebuds with the metalic coppery taste. You attempt to resist the urge to gag as the smell of rotting flesh invades your sinuses.
+
+ [[Gag And Run]]
+ 
+ [[Remain Quiet]]
+
+
+:: Hold your Breath {"position":"100,1350","size":"100,100"}
+After a period of unbearable time, feeling the creature's footsteps grow closer, you need to take a breath. As quietly as possible, you exhale the breath you were holding and slowly grant your burning lungs the air it requires. Breathing slowly, you notice that you can no longer hear any noise from the monster. Peeking out from below the corpse, the gymnasium has become vacant of any hostile creatures. Not only this, but you can see a few beams of morning sun breach the sky through the hole in the roof.
+
+Then you hear a gunshot.
+
+[[Investigate]]
+
+[[Remain in safety]]
+
+
+:: Hurl some more {"position":"550,900","size":"100,100"}
+Your body heaves as you lose everything you had in your stomach.
+
+the man asks again, "You good?"
+
+[[I'm Fine]] 
+
+
+:: I'm Fine {"position":"700,900","size":"100,100"}
+Motioning that you are fine to the man, he collapses backwards into the wall. 
+
+"Good, cuz I'm exhausted."
+
+He looks over to you, weariness apparent in his eyes.
+
+"Got a smoke? I don't regularly, but you know... end of times and all that."
+
+Noticing a lack of motion, he closes his eyes and tilts his head back.
+
+"Got it, not much of a talker, well thanks anyways for the help. Where are you headed?"
+
+
+
+[[Headed to the Shipyard]]
+
+[[Headed out of the City]]
+
+
+:: Ignore the Truth {"position":"700,450","size":"100,100"}
+Ain't that just peachy? You know it's the truth! Look at yourself, is this who you want to be?
+
+[[No]]
+
+Sure, sure, but you admit that you are ignoring the truth of the matter yes? You left that man to ''//Die//''! What self respecting good samaritan does that? You?
+
+[[No]]!
+
+
+HA! Stop lying to yourself. In this world that will only get you killed? What, do you think that time stops when we chat like this? You are literally going insane! How many times have you died so far? Have you already gone down the other routes? Oh do tell me, are you looking for the //good// ending? Well, sorry to burst that bubble, there is NONE! 
+
+Now, wake up from your delirum, and start again.
+
+[[No]]...
+
+
+:: Ignore the man {"position":"550,450","size":"100,100"}
+It's funny to see how the human mind works. You don't want to associate yourself with the injury or death of others, yet you are willing to do nothing condemning them to the same fate as if you twist the knife yourself.
+
+Thats just fine though.
+
+You book it, running past the man that you leave sprawled out on the floor, hearing a hoarse "Hey!" as you leave the man to his fate. 
+
+In your ignorance to your humanity, you block out any noise that you can hear, as if that means it wasn't your fault.
+
+It was.
+
+[[You aren't a good person are you?]]
+
+[[Ignore the Truth]]
+
+
+:: Investigate {"position":"400,1200","size":"100,100"}
+End Of Current Version
+
+
+:: Left {"position":"550,600","size":"100,100"}
+You bank left as the creature following you overshoots, mouth snapping shut inches away as it skids down the hall. You hear a loud crash as the monster slams into the doors.
+
+As you move down the hallway, you come across a man locked in a grapple with another creature, this one with a large wound where one of its claws should be. A gun scattered a few feet away from the man seems to be the cause of such a wound. 
+
+With little time to think, you come up with a few options:
+1. [[Help the man]], giving time for the monster chasing yourself to catch up
+2. [[Ignore the man]] and leave him to fight both monsters
+3. Take the gun and actively [[sabotage the man]]
+
+
+:: Me {"position":"100,1750","size":"100,100"}
+Why are you looking this(text-rotate-y:177)+(text-rotate-z:186)[ deep]? There is nothing to find.
+
+I am just a poor being in the ^^//''cosmic chain''//^^ that has to watch in (text-colour:#fb00ff)[''infinitesimal '']amount of people pick different decisions in a string of events that still lead to (text-rotate-x:48)+(text-rotate-z:316)[tradgedy]. No matter ''WHAT YOU PICK'', millions die, the city (text-rotate-z:87)[falls], and my (text-rotate-x:114)+(text-rotate-y:19)[SISTER] dies. I just want to be free.
+
+(text-rotate-x:22)+(text-rotate-y:182)[Stop Showing me how it could've ended]
+
+(text-rotate-y:294)[Stop showing me what could've been]
+
+I couldn't save (text-rotate-x:66)+(text-rotate-y:194)[HER]
+
+It wasn't'' Possible''.
+
+[[A Ripple Against a Wave]] 
+
+
+
+(text-rotate-x:66)+(text-rotate-y:194)+(text-rotate-z:229)[~~Find Her Between the Lines~~]
+
+
+
+:: No {"position":"850,300","size":"100,100"}
+You know, shutting key senses off from the world probably isn't the best idea in a hostile environment. In this case, it costs you.
+
+As you bank around another corner, you fail to register a figure stepping out of a dark shadow, heaving its sword up, and swinging it towards your head. 
+
+//Shlick//
+
+As the sword passes through your jugular, and into your spine, the last thing you register is the cold steel making contact with your spinal nerve.
+
+Hey, just desserts and all that right?
+
+[[A Ripple Against a Wave]] 
+
+
+:: Remain Quiet {"position":"250,1050","size":"100,100"}
+There's a crunch as the creature steps towards you.
+
+[[Gag And Run]]
+
+[[Silence]]
+
+
+
+
+:: Remain in safety {"position":"250,1350","size":"100,100"}
+You shake your head. It's survival of the fittest at this point, and whoever shot that bullet hopefully had the gun pointed inwards else the monsters get them. You are safer here, the monsters have moved on, likely chasing down the sound themselves. Gathering yourself, you notice that the door is no longer strained under something else. It might be safe to [[go out]] now.
+
+...
+
+...
+
+Or you could [[stay]]...
+
+It has worked so far right?
+
+
+
+
+:: Right {"position":"400,450","size":"100,100"}
+You duck out to the left, seeing the body of flesh fly by out of your periphery, and quickly you enter the meeting room. Closing the door, you recognize this place as the auditorium, the place you were first brought when you arrived with the other refugees. It was full of hope then, people confident in the city's ability to fend off the abominations that destroyed your homes. Now it is dilapidated. Part of the roof has caved in, and a pipe has burst, creating a damp, dreary atmosphere. The stage that you could imagine kids acting on lies empty, lifeless, like those that you saw in the gymnasium. 
+
+
+It's...
+
+Sad.
+
+[[Explore the Stage]]
+
+
+:: Run [Ripples] {"position":"250,750","size":"100,100"}
+Your body breaks into motion. Your ears pick up the snapping of bones as you can only assume the creature begins to chase. You blot out that though and focus on where to go. You could try to run through the back doors, and out into the night. You could run into the hallways of the school, and try to lose it through the labyrinth-like structure, or you could run to the equipment closet, and try to arm yourself. you need to// pick right ''now.''//
+
+[[Backdoor]]
+
+[[Hallways]]
+
+[[Equipment Closet]]
+
+
+
+:: Silence {"position":"100,1200","size":"100,100"}
+A piece of gooey rotten fless begins to drip onto your face. You can feel the tension in the air as the thing stops moving.
+
+[[Gag And Run]]
+
+[[Stay Mute]]
+
+
+
+:: Sleep {"position":"250,1625","size":"100,100"}
+Your body fades away as your consciousness departs into sleep. The pain and terror of the night is overwhelmed by the sense of exhaustion, and fade into the background. You go off into whatever dream you dream. I'll see you when you [[wake up]].
+
+
+What, you think that I can see what you dream? I simply exist to catalog the decisions you make, and to let you know how they turn out. You don't need to know what I think.
+
+ 
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+               
+      
+[[What does the Narrator think?]]
+
+
+
+
+
+
+
+
+:: Stay Mute {"position":"250,1200","size":"100,100"}
+You can swear the thing is looking at you. Even without eyes you just ''KNOW''.
+
+It ''KNOWS''.
+
+[[Hold your Breath]]
+
+[[Gag And Run]]
+
+
+:: Travel by rooftop {"position":"850,600","size":"100,100"}
+End Of Current Version
+
+
+:: What does the Narrator think? {"position":"100,1500","size":"100,100"}
+You really want to ask me what I think? Really?
+
+Honestly its been a while since someone actually though of me. Most people go on and never think about the disembodied voice that watches every choice you have made. Truly, you are all masters at ignoring what shouldn't be there. I've watched countless people trek the same decisions that you make, choosing to be good, bad, evil or just stupid. I mean really, who runs in a straight line with something chasing you? Thats like asking to die.
+
+[[wake up]]
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+
+
+[[Go on]]
+
+
+:: Yes {"position":"700,150","size":"100,100"}
+Good, cuz thats a sword coming for your head.
+
+Theres a great //whoosh// as the black steel of the blade goes high over your ducking head. In your heightened adrenaline, you ignore the searing pain in your knees as you slide along the floor, maintaining as much momentum as possible, continuing your run, one that quickly shifts into a sprint as you realize just how close to death you were there.
+
+With that, you come to a realization: 
+
+You need to get out of here ''NOW''.
+
+
+:: You aren't a good person are you? {"position":"700,300","size":"100,100"}
+Congrats! You've come to terms with yourself. Now that you have, might want to get your ears working again.
+
+[[Yes]]
+
+[[No]]
+
+
+:: go out {"position":"400,1350","size":"100,100"}
+End Of Current Version
+
+
+:: look through the window {"position":"250,450","size":"100,100"}
+As you stare out the window, the first thing that you notice is that the sun is slowly peaking out from just beyond the horizon. With the black night fading, just a bit of your hope returns. Other than that, you notice a black figure just before it goes out of sight, towards the backdoor of the gymnasium. If you were to break the window, it would be a short dash to the cover of the back alleys, an area just thin enough that more of those creatures wouldn't be able to follow.
+
+[[Equipment Closet]] 
+
+[[Break the Window]]
+
+
+
+:: ready to go {"position":"850,750","size":"100,100"}
+
+
+
+:: sabotage the man {"position":"700,600","size":"100,100"}
+You run by, snagging the rifle on the ground, leaving the man stunned. Banking around the next corner, you don't want to imagine what happened to the man once the other beast got back up... Or maybe you do. You took his rifle after all.
+
+Finding the side entrance, you bolt out, making a beeline for the alleyway across the street. By some luck, you make it unnoticed, and you finally escape that wretched building. Remembering that someone said something about ships leaving from the harbor district, you think that that is your best bet on getting out of here. As for how you get there, you could continue through the alleys or use the fire escape to get to the roof. The streets are too open right now.
+
+[[Continue through the alleys]]
+
+[[Travel by rooftop]]
+
+
+
+
+:: stay {"position":"250,1500","size":"100,100"}
+Passage Text
+Yeah! Staying is the right option. You don't need to do anything right now! In fact, going about and trying to find others is practically suicide. You can just wait it out, and eventually the military will beat back the invaders! Now, let's sleep off our wounds, and let's deal with what comes next tomorrow.
+
+[[Sleep]]
+
+
+
+
+
+
+
+
+:: wake up {"position":"250,1750","size":"100,100"}
+Death via Chaos Paladin
+
+
+
+
+[[A Ripple Against a Wave]] 
